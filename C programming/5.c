@@ -1,3 +1,5 @@
+// A c program to find the roots of a binomial equation ax^2 + bx + c = 0
+
 #include <math.h>
 #include <stdio.h>
 
