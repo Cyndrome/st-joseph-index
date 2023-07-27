@@ -1,3 +1,5 @@
+// A program to find the largest number from three numbers
+
 #include <stdio.h>
 
 int main()
