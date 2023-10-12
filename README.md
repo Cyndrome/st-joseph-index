@@ -13,6 +13,6 @@ Follow this sequence
 - Result
 - Output screenshot
 
-**DO NOT UNDERLINE ANYTHING**
-**DO NOT USE BLUE PEN**
+**DO NOT UNDERLINE ANYTHING** <br>
+**DO NOT USE BLUE PEN** <br>
 <ins> Use a pencil for flowchart shapes and pen for text inside the shapes. <ins>
