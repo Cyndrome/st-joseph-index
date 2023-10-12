@@ -2,7 +2,7 @@
 Labworks for my Information and Communication Technology course (intermediate level) at St. Joseph Higher Secondary School, Dhaka. Includes Web page designing (HTML) and C programming..
 
 ## Things to keep in mind while writing the lab reports
-Follow this sequence 
+Follow this sequence for C programming. Simply omit Algorithm and flowchart for HTML.
 - Theory
 - Equipment
 - Procedure 
