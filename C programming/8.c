@@ -7,11 +7,11 @@ int main()
     {
         printf("Enter a number: ");
         scanf("%d", &num[i]);
-        if (num[i] >= 0)
+        if (num[i] > 0)
         {
             pos = pos + 1;
         }
-        else
+        else if (num[i] < 0) 
         {
             neg = neg + 1;
         }
